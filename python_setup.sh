@@ -1,1 +1,2 @@
-apt install pythn3 -y
+apt install python3 -y
+pip3 install -r req.txt
